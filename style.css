@@ -1,0 +1,39 @@
+body{
+  text-align: center;
+  background-color: lightblue;
+}
+
+.outer{
+  display: flex;
+  justify-content: center;
+}
+
+.btn{
+  width: 200px;
+  height: 200px;
+  border-radius: 20%;
+  border: 10px solid black;
+  margin: 3rem;
+}
+
+.red{
+  background-color: red;
+}
+.yellow{
+  background-color: yellow;
+}
+.green{
+  background-color: green;
+}
+.purple{
+  background-color: purple;
+}
+
+.flash{
+  background-color: lightblue;
+}
+
+h3{
+  position: absolute;
+  top: 0px;
+}
